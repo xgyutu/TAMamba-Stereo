@@ -1,5 +1,5 @@
   <p align="center">
-  <h1 align="center">TAM-Stereo</h1>
+  <h1 align="center">TAMamba-Stereo: A Novel Network for Effective Stereo Matching</h1>
   <p align="center">
 
 "### Paper Under Submission
