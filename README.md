@@ -1,8 +1,8 @@
   <p align="center">
-  <h1 align="center">TAMamba-Stereo: A Novel Network for Effective Stereo Matching</h1>
+  <h1 align="center">TAMamba-Stereo: A Multi-Branch Fast Stereo Matching Network Based on the Mamba Architecture</h1>
   <p align="center">
 
-"### Paper Under Submission
+"### The paper was submitted on June 10, 2014.
 
 I am currently in the process of submitting my paper to an academic journal. Once the paper is accepted, I will update this section with relevant information. Thank you for your interest and patience."
 
