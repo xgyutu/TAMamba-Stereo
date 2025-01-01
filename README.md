@@ -2,7 +2,7 @@
   <h1 align="center">TAMamba-Stereo: A Multi-Branch Fast Stereo Matching Network Based on the Mamba Architecture</h1>
   <p align="center">
 
-"### The paper was submitted on June 10, 2014.
+"### The paper was submitted on June 10, 2024.
 
 I am currently in the process of submitting my paper to an academic journal. Once the paper is accepted, I will update this section with relevant information. Thank you for your interest and patience."
 
